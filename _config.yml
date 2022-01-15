@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR" 
-title                    : "ML/DL-Algorithm Developer Blog"
+title                    : "Hue-Study Blog : ML/DL Algorithm"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "D. Lee"
+name                     : "Donghyu Lee"
 description              : "M.S. Student"
 url                      : "https://DonghyuLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "DonghyuLee/DonghyuLee.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/88x88.png" # 화면에 보여지는 로고
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/ai.png" 
+masthead_title           : "Hue-Study Blog : ML/DL Algorithm"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,8 +102,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "D. Lee"
-  avatar           : # "/assets/images/bio-photo.jpg"
+  name             : "Donghyu Lee"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "M.S. Student"
   location         : "South Korea"
   email            :
@@ -111,21 +111,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ddgorae123@snu.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DonghyuLee"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkdein"
+      url: "https://www.linkedin.com/in/donghyulee/"
 
 # Site Footer
 footer:
@@ -133,21 +124,12 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ddgorae123@snu.ac.kr"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
       url: "https://github.com/DonghyuLee"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkdein"
+      url: "https://www.linkedin.com/in/donghyulee/"
 
 
 # Reading Files
