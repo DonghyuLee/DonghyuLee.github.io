@@ -25,7 +25,7 @@ url                      : "https://DonghyuLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DonghyuLee/DonghyuLee.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "./assets/images/ai.png" 
+logo                     : "/assets/images/ai.png" 
 masthead_title           : "Hue-Study Blog : ML/DL Algorithm"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,11 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Donghyu Lee"
-<<<<<<< HEAD
-  avatar           : "./assets/images/bio-photo.JPG"
-=======
-  avatar           : "/assets/images/bio-photo.JPG"
->>>>>>> 3efcec2ce6e1d4c196c2ce94dc943b3faf9f386e
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "M.S. Student"
   location         : "South Korea"
   email            :
