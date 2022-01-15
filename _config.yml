@@ -103,7 +103,11 @@ analytics:
 # Site Author
 author:
   name             : "Donghyu Lee"
+<<<<<<< HEAD
   avatar           : "./assets/images/bio-photo.JPG"
+=======
+  avatar           : "/assets/images/bio-photo.JPG"
+>>>>>>> 3efcec2ce6e1d4c196c2ce94dc943b3faf9f386e
   bio              : "M.S. Student"
   location         : "South Korea"
   email            :
